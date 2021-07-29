@@ -1,4 +1,7 @@
 1001,John,21,Sports,4,1002,Good
+1001,John,21,Sports,4,1002,Bad
+1001,John,21,Sports,4,1002,Good
+1001,John,21,Sports,4,1002,Bad
 1002,Tom,25,Astrology,2,4512,Bad
 1003,Jose,18,Songs,3,5465,Average
 1004,Cris,16,Porn,4,7845,Fine
